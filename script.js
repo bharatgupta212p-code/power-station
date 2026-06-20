@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 window.addEventListener("load", () => {
 
   const loader = document.getElementById("loader");
@@ -159,8 +159,8 @@ scrollTrigger:{
 trigger:".pricing",
 start:"top 75%"
 }
+});
 
-=======
 window.addEventListener("load", () => {
 
   const loader = document.getElementById("loader");
@@ -321,6 +321,4 @@ scrollTrigger:{
 trigger:".pricing",
 start:"top 75%"
 }
-
->>>>>>> 6818d28fd33c1924354d81222c4d7afe1d055f44
 });

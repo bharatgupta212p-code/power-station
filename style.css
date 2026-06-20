@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* RESET */
 *{
 margin:0;
@@ -821,7 +821,7 @@ header{
 .menu-toggle{
     display:block !important;
     font-size:2rem;
-=======
+
 /* RESET */
 *{
 margin:0;
@@ -842,7 +842,7 @@ background:#0a0a0a;
 color:white;
 overflow-x:hidden;
 }
-
+}
 /* LOADER */
 
 #loader{
@@ -1596,5 +1596,4 @@ z-index:999;
         cursor: pointer;
     }
 
->>>>>>> 6818d28fd33c1924354d81222c4d7afe1d055f44
 }
